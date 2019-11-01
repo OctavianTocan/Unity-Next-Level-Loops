@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\octav\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\octav\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Unity-Next-Level-Loops.418915343.00" t="ExcludeRecursive" />
+    <e p="E:\Unity-Next-Level-Loops" t="IncludeRecursive">
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assets\Plugins" t="Include">
+        <e p="Unfinished Studios" t="Include">
+          <e p="Core" t="Include">
+            <e p="Loops.cs" t="Include" />
+            <e p="RLoops.cs" t="Include" />
+          </e>
+          <e p="Examples" t="Include">
+            <e p="Code" t="Include">
+              <e p="UpperCaseMaker.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="Unity-Next-Level-Loops.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

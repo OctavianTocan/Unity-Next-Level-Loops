@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Plugins/Unfinished Studios/Examples/Test Scene.unity
+  isLoaded: 1
+  isActive: 1
